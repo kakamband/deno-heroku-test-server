@@ -1,4 +1,4 @@
-import { serve } from "https://deno.land/std@0.57.0/http/server.ts";
+import { serve } from "https://deno.land/std@0.64.0/http/server.ts";
 import { parse } from 'https://deno.land/std/flags/mod.ts';
 
 const { args } = Deno;
